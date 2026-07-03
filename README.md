@@ -1,4 +1,4 @@
-<img width="1506" height="713" alt="image" src="https://github.com/user-attachments/assets/742848c5-cc2f-40fb-8e84-7e77d11d532a" /># 🔐 Login Page
+<img width="1506" height="713" alt="image" src="https://github.com/user-attachments/assets/742848c5-cc2f-40fb-8e84-7e77d11d532a" /># Hero page
 
 A modern, clean, and responsive Hero page built with **React** and **Tailwind CSS**.
 
@@ -23,7 +23,7 @@ A modern, clean, and responsive Hero page built with **React** and **Tailwind CS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+https://github.com/noorulhaqrahimi/Hero-page.git
 ```
 
 2. Open the project folder.
