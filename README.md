@@ -34,7 +34,7 @@ https://github.com/noorulhaqrahimi/Hero-page.git
 Add a screenshot of your project and save it as:
 
 ```
-preview.png
+pg.png
 ```
 
 inside the root of your project.
