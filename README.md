@@ -2,7 +2,6 @@
 
 A modern, clean, and responsive Hero page built with **React** and **Tailwind CSS**.
 
-![Project Preview](./pg.png)
 
 ## ✨ Features
 
